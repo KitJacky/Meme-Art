@@ -28,6 +28,9 @@ In conclusion, MEME Art is a platform that provides a sustainable income source 
 https://memeart.io
 
 
+#### Mainnet UI :
+https://memeart.io/details/63fc3793e007fdf2ab4c8d13
+
 #### Mainnet Metadata :
 https://2023.memeart.io/api/nft/metadata?nftId=63fc3793e007fdf2ab4c8d13
 
@@ -39,7 +42,10 @@ https://2023.memeart.io/api/nft/metadata?nftId=63fc3793e007fdf2ab4c8d13
 #### Mainnet mint NFT TX:
 https://ping.pub/meme/tx/4A3916756B4EBC3BC4445702C956AF3EA9EC4014F9ED8134F9E94FEC38428B6E
 
-#### CosmWasm Contract
+#### Mainnet IPFS :
+https://memenetwork.infura-ipfs.io/ipfs/QmNwH9kkYroMkqHtesGNpaSjDBR831ReKqkShjGPEx8Qiy
+
+#### CosmWasm Contract 
 Code ID : ```4```
 
 Contract Address : ``` meme1zwv6feuzhy6a9wekh96cd57lsarmqlwxdypdsplw6zhfncqw6ftqcda87z ```

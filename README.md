@@ -94,10 +94,18 @@ Contract Address : ``` meme1zwv6feuzhy6a9wekh96cd57lsarmqlwxdypdsplw6zhfncqw6ftq
 <img src="https://raw.githubusercontent.com/KitJacky/Meme-Art/main/images/003.jpeg" width="500">
 
 
-##### For example, if the creation fee is 1000 $MEME:
-* For the original creator not using Library and Parent: 10% goes to the origin reward, 30% goes to the MEME Art DAO Fund, and 60% goes to the MEME Art Fund.
-* For creators using Library: 40% goes to the MEME Art DAO Fund, and 60% goes to the MEME Art Fund.
-* For creators using Parent: 30% goes to the previous Parent, 10% goes to the origin reward, and 60% goes to the MEME Art Fund.
+#### For example, if the creation fee is 1000 $MEME:
+##### For the original creator not using Library and Parent: 
+ * 10% (100 $MEME) goes to the origin reward, 
+ * 30% (300 $MEME) goes to the MEME Art DAO Fund, 
+ * and 60% (600 $MEME) goes to the MEME Art Fund.
+##### For creators using Library: 
+ * 40% (400 $MEME) goes to the MEME Art DAO Fund, 
+ * and 60% (600 $MEME) goes to the MEME Art Fund.
+##### For creators using Parent: 
+ * 30% (300 $MEME) goes to the previous Parent, 
+ * 10% (100 $MEME) goes to the origin reward, 
+ * and 60% (600 $MEME) goes to the MEME Art Fund.
 
 #### Please note that this formula is subject to change and may be adjusted as the project progresses.
 

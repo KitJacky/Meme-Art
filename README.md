@@ -1,6 +1,26 @@
 # MEME ART
 
 
+MEME Art is a platform that empowers meme creators to monetize their content and preserve their digital assets. It is built on the MEME Network, a Web3 platform that aims to create a new world with higher transparency, decentralized collective consensus, and secure asset management.
+
+MEME Art is the world's first NFT instant publishing and instant response platform that enables users to create and publish their memes without having to learn how to code. All creations produced in MEME Art will be minted as NFTs (non-fungible tokens) and stored permanently on the MEME Network blockchain, where meme creators, also known as "Memers," are granted true ownership and monetization of their works.
+
+The Heritage System is a unique feature of MEME Art. It works as a family tree with a royalty structure, where the original creator and the derivative work creator are both incentivized in $MEME. The creation fee for MEME Art is 2000 $MEME, and the tokenomic distribution formula is designed to reward both the creators and the MEME Art Fund.
+
+40% of the creation fee will be distributed to the creators, broken down as:
+Parent Reward 30%: When a MEME is recreated by another person, the previous parent will receive 30% of the creation fee.
+Origin Reward 10%: If the creator is the original creator, they will receive 10% of the creation fee as a reward.
+
+The remaining 60% of the creation fee will go to the MEME Art Fund, which is broken down into various funds for supporting the development of the MEME Art community. The funds include:
+Library Contributor Fund 10%: Fund for rewarding library material contributors.
+Top 20 Liked MEME Fund 10%: Fund for rewarding creators of the top 20 liked memes of the month.
+Top 20 Viewed Meme Fund 10%: Fund for rewarding creators of the top 20 viewed memes of the month.
+Event Fund 15%: Fund for supporting MEME Art related events.
+Meme Art DAO Fund 15%: Fund for supporting projects proposed by the Meme Art DAO.
+
+In conclusion, MEME Art is a platform that provides a sustainable income source for meme creators, allowing them to monetize their content and preserve their digital assets as NFTs. With its innovative Heritage System, MEME Art is poised to become the world's first platform for memers, and it is an exciting opportunity for meme creators to join the Web3 revolution.
+
+
 
 ## MemeArt Mainnet 
 
@@ -44,6 +64,12 @@ Contract Address : ``` meme1zwv6feuzhy6a9wekh96cd57lsarmqlwxdypdsplw6zhfncqw6ftq
 * For creators using Parent: 30% goes to the previous Parent, 10% goes to the origin reward, and 60% goes to the MEME Art Fund.
 
 #### Please note that this formula is subject to change and may be adjusted as the project progresses.
+
+
+
+
+
+``` ```
 
 
 

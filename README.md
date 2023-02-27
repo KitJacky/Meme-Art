@@ -59,7 +59,7 @@ Contract Address : ``` meme1zwv6feuzhy6a9wekh96cd57lsarmqlwxdypdsplw6zhfncqw6ftq
 
 #### The tokenomic distribution formula for MEME Art is as follows:
 
-<img src="https://raw.githubusercontent.com/KitJacky/Meme-Art/main/images/002.jpeg" width="350">
+<img src="https://raw.githubusercontent.com/KitJacky/Meme-Art/main/images/002.jpeg" width="500">
 
 ##### 40% of the creation fee is allocated to the creators, which is broken down into:
 * 30% Parent Reward: When another person creates an NFT based on your work, you will receive 30% of the creation fee as a reward.

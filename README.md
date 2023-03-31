@@ -64,7 +64,7 @@ https://2023.memeart.io/api/nft/metadata?nftId=63fc3793e007fdf2ab4c8d13
 }
 ```
 
-#### Mainnet CosmWasm Contract:
+#### CosmWasm CW721 with MEME Art tokenomic contract in MEME Network mainnet:
 https://ping.pub/meme/account/meme1zwv6feuzhy6a9wekh96cd57lsarmqlwxdypdsplw6zhfncqw6ftqcda87z
 
 #### Mainnet IPFS eg:
